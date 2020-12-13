@@ -24,7 +24,7 @@
             {
                 "label": "Contact",
                 "url": "/signup",
-                "primary": false
+                "primary": true
             }
         ]
     },
