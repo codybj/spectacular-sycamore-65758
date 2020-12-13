@@ -37,7 +37,7 @@ sections:
         actions:
           - label: Nature Communications
             url: /publications
-          - label: lorem-ipsum
+          - label: BBRC
             url: lorem-ipsum
             primary: false
             new_window: false
