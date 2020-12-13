@@ -1,6 +1,6 @@
 ---
 title: About Dr. Jackson
-subtitle: ''
+subtitle: About Dr. Jackson
 image: images/CODYPOSTER3 2.jpg
 image_alt: Team members in a conference room
 template: page
