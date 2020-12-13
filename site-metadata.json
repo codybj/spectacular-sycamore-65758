@@ -24,7 +24,7 @@
         ]
     },
     "footer": {
-        "logo_img": "images/Logo and Name.png",
+        "logo_img": "images/Logo only.svg",
         "tagline": "SaaS theme by Stackbit",
         "has_nav": true,
         "nav_title": "Company",
