@@ -37,6 +37,12 @@ sections:
         actions:
           - label: Nature Communications
             url: /publications
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            primary: false
+            new_window: false
+            no_follow: false
+            type: action
       - title: AAV Vectors for Gene Therapy
         image: images/feature2.png
         image_alt: App users welcoming a new member
