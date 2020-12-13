@@ -20,7 +20,7 @@ sections:
     title: Research Interests
     subtitle: Current and past research interests during training
     features:
-      - title: The Best Feature of Your Services
+      - title: SARS-CoV-2
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
