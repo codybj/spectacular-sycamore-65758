@@ -30,7 +30,7 @@ sections:
           junction of the S1 and S2 subunits which is processed by furin-like
           proprotein convertases in the virus-producer cell before encountering
           target cells. Therefore, intermolecular association of S1 and S2
-          subunits are necessary to retain infectivity. My work has clarified
+          subunits are necessary to retain infectivity. Our work has clarified
           the nature of this interaction and revealed the mechanism of increased
           infectivity of the D614G variant by the effects of this amino acid
           change on S1-S2 interaction and spike protein density. 
