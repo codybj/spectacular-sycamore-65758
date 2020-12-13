@@ -18,9 +18,7 @@ sections:
     type: section_features
     background: gray
     title: Research Interests
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Current and past research interests
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
