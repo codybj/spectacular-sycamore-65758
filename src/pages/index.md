@@ -29,7 +29,7 @@ sections:
           consequat ex.
         actions:
           - label: Publications
-            url: /features
+            url: /publications
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
