@@ -57,7 +57,7 @@ sections:
           can be combined with other advances in AAV capsid engineering.
         actions:
           - label: Molecular Therapy Methods Clin Dev
-            url: /features
+            url: 'https://doi.org/10.1016/j.omtm.2020.11.004'
             new_window: true
   - section_id: reviews
     type: section_reviews
