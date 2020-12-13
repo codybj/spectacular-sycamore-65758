@@ -28,7 +28,7 @@ sections:
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
         actions:
-          - label: Learn More
+          - label: Publications
             url: /features
       - title: Awesome Feature of Your Services
         image: images/feature2.png
