@@ -20,11 +20,6 @@
             {
                 "label": "Publications",
                 "url": "/publications"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact",
-                "primary": false
             }
         ]
     },
