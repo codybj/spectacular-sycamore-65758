@@ -37,6 +37,7 @@ sections:
         actions:
           - label: Nature Communications
             url: 'https://www.nature.com/articles/s41467-020-19808-4'
+            new_window: true
           - label: BBRC
             url: lorem-ipsum
             primary: false
