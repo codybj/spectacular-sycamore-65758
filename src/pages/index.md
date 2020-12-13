@@ -36,7 +36,7 @@ sections:
           change on S1-S2 interaction and spike protein density. 
         actions:
           - label: Nature Communications
-            url: /publications
+            url: 'https://www.nature.com/articles/s41467-020-19808-4'
           - label: BBRC
             url: lorem-ipsum
             primary: false
