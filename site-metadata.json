@@ -53,11 +53,6 @@
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/codybjackson/",
                 "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "new_window": true
             }
         ],
         "has_subscribe": false,
