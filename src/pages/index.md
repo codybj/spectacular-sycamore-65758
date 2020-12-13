@@ -12,7 +12,7 @@ sections:
       Atlantic University.](https://med.fau.edu)
     actions:
       - label: Learn More
-        url: /features
+        url: '#'
         primary: true
   - section_id: features
     type: section_features
