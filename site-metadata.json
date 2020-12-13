@@ -50,6 +50,11 @@
         "social_title": "Connect",
         "social_links": [
             {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "new_window": true
+            },
+            {
                 "label": "Twitter",
                 "url": "https://twitter.com/",
                 "new_window": true
@@ -57,11 +62,6 @@
             {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
                 "new_window": true
             }
         ],
