@@ -18,7 +18,7 @@ sections:
     type: section_features
     background: gray
     title: Research Interests
-    subtitle: Current and past research interests
+    subtitle: 'Current and past research interests '
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
