@@ -58,6 +58,7 @@ sections:
         actions:
           - label: Molecular Therapy Methods Clin Dev
             url: /features
+            new_window: true
   - section_id: reviews
     type: section_reviews
     background: white
