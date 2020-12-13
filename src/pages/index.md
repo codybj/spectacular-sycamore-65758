@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: '#'
         primary: true
-  - section_id: features
+  - section_id: research
     type: section_features
     background: gray
     title: Research Interests
