@@ -8,7 +8,8 @@ sections:
     title: Dr. Cody B. Jackson
     content: >-
       Synthetic virology postdoc at [Choe Lab](https://www.choeresearch.com),
-      [Scripps Research](https://www.scripps.edu).
+      [Scripps Research](https://www.scripps.edu). MD candidate at [Florida
+      Atlantic University.](https://med.fau.edu)
     actions:
       - label: Learn More
         url: /features
