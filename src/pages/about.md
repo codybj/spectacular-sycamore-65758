@@ -1,6 +1,6 @@
 ---
 title: About Dr. Jackson
-subtitle: 'PhD, Virology, Scripps Research 2020'
+subtitle: ''
 image: images/CODYPOSTER3 2.jpg
 image_alt: Team members in a conference room
 template: page
