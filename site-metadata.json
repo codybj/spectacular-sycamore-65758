@@ -1,7 +1,7 @@
 {
     "palette": "blue",
     "header": {
-        "logo_img": "images/background.png",
+        "logo_img": "images/Logo only.svg",
         "has_nav": true,
         "nav_links": [
             {
