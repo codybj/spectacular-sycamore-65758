@@ -1,8 +1,6 @@
 ---
 title: About Dr. Jackson
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: 'PhD, Virology, Scripps Research 2020'
 image: images/about.jpg
 image_alt: Team members in a conference room
 template: page
