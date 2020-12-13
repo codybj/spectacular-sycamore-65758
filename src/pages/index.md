@@ -55,7 +55,7 @@ sections:
           transduction of skeletal muscle *in vivo* with a modular approach that
           can be combined with other advances in AAV capsid engineering.
         actions:
-          - label: Mol Ther Methods and Clin Dev
+          - label: Mol Ther Methods & Clin Dev
             url: /features
       - title: Cool Feature of Your Services
         image: images/feature3.png
