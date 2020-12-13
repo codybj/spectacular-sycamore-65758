@@ -35,7 +35,7 @@ sections:
           infectivity of the D614G variant by the effects of this amino acid
           change on S1-S2 interaction and spike protein density. 
         actions:
-          - label: Publications
+          - label: Nature Communications
             url: /publications
       - title: AAV Vectors for Gene Therapy
         image: images/feature2.png
