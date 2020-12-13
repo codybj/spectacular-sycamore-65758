@@ -22,7 +22,7 @@
                 "url": "/style-guide"
             },
             {
-                "label": "Sign Up",
+                "label": "Code",
                 "url": "/signup",
                 "primary": false
             }
