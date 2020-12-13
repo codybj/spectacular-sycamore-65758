@@ -1,5 +1,5 @@
 ---
-title: ''
+title: About Dr. Jackson
 subtitle: About Dr. Jackson
 image: images/CODYPOSTER3 2.jpg
 image_alt: Cody presenting a poster
