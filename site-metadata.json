@@ -24,7 +24,7 @@
             {
                 "label": "Connect",
                 "url": "/signup",
-                "primary": true
+                "primary": false
             }
         ]
     },
