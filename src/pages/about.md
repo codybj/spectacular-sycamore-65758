@@ -2,7 +2,7 @@
 title: ''
 subtitle: About Dr. Jackson
 image: images/CODYPOSTER3 2.jpg
-image_alt: Team members in a conference room
+image_alt: Cody presenting a poster
 template: page
 ---
 
