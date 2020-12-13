@@ -57,7 +57,7 @@
             {
                 "label": "Choe Lab",
                 "url": "https://www.choeresearch.com/",
-                "primary": true,
+                "primary": false,
                 "new_window": true,
                 "no_follow": false,
                 "type": "action"
