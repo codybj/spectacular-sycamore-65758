@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Dr. Cody B. Jackson
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Synthetic virology postdoc at [Choe Lab](https://www.choeresearch.com),
+      [Scripps Research](https://www.scripps.edu).
     actions:
       - label: Learn More
         url: /features
