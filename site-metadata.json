@@ -23,7 +23,7 @@
             },
             {
                 "label": "Connect",
-                "url": "/signup",
+                "url": "/connect",
                 "primary": false
             }
         ]
