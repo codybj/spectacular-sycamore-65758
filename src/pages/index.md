@@ -41,7 +41,7 @@ sections:
           - label: BBRC
             url: 'https://doi.org/10.1016/j.bbrc.2020.11.026'
             primary: false
-            new_window: false
+            new_window: true
             no_follow: false
             type: action
       - title: AAV Vectors for Gene Therapy
