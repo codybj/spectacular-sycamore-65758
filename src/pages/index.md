@@ -37,7 +37,7 @@ sections:
         actions:
           - label: Publications
             url: /publications
-      - title: AAV Vectors for Gene Therapy
+      - title: Skeletal Muscle- Gene Therapy
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
