@@ -24,9 +24,16 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          SARS-CoV-2, the causative agent of COVID-19, binds and enters host
+          cells by action of its spike (S) protein. SARS-CoV-2 S protein, unlike
+          other sarbecoviruses, has acquired a multibasic cleavage site at the
+          junction of the S1 and S2 subunits which is processed by furin-like
+          proprotein convertases in the virus-producer cell before encountering
+          target cells. Therefore, intermolecular association of S1 and S2
+          subunits are necessary to retain infectivity. My work has clarified
+          the nature of this interaction and revealed the mechanism of increased
+          infectivity of D614G variant SARS-CoV-2 by the effects of this amino
+          acid change on S1-S2 interaction and spike protein density. 
         actions:
           - label: Publications
             url: /publications
