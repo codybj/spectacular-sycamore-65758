@@ -41,9 +41,13 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Skeletal muscle is an ideal gene therapy target to act as a factory
+          for the production and secretion of systemically-acting therapeutic
+          proteins. However, current gene delivery technologies are limited in
+          transduction efficiency in skeletal muscle. We developed a novel AAV
+          vector targeting insulin receptor to achieve ~20-fold enhanced
+          transduction of skeletal muscle *in vivo* with a modular approach that
+          can be combined with other advances in AAV capsid engineering.
         actions:
           - label: Learn More
             url: /features
