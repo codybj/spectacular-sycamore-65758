@@ -7,7 +7,7 @@
             {
                 "label": "Home",
                 "url": "/",
-                "primary": true
+                "primary": false
             },
             {
                 "label": "Features",
