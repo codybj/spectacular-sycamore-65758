@@ -24,7 +24,7 @@
             {
                 "label": "Sign Up",
                 "url": "/signup",
-                "primary": true
+                "primary": false
             }
         ]
     },
