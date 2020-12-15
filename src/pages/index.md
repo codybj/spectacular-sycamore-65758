@@ -12,7 +12,7 @@ sections:
       University](https://med.fau.edu).
     actions:
       - label: Learn More
-        url: '#'
+        url: '#research'
         primary: true
   - section_id: research
     type: section_features
