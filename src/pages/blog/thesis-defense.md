@@ -5,7 +5,7 @@ date: '2020-12-15'
 excerpt: lorem-ipsum
 image_alt: celebration
 thumb_image_alt: lorem-ipsum
-meta_title: lorem-ipsum
+meta_title: ''
 meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
