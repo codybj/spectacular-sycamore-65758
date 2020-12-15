@@ -10,10 +10,6 @@
                 "primary": false
             },
             {
-                "label": "About",
-                "url": "/about"
-            },
-            {
                 "label": "News",
                 "url": "/blog"
             },
