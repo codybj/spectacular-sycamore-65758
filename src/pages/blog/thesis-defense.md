@@ -6,7 +6,7 @@ excerpt: lorem-ipsum
 image_alt: celebration
 thumb_image_alt: lorem-ipsum
 meta_title: ''
-meta_description: lorem-ipsum
+meta_description: ''
 canonical_url: lorem-ipsum
 no_index: false
 template: post
