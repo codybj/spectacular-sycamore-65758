@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Cody defends his PhD thesis
 subtitle: ''
 date: '2020-12-15'
 excerpt: lorem-ipsum
