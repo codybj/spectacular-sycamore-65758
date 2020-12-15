@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-subtitle: lorem-ipsum
+subtitle: ''
 date: '2020-12-15'
 excerpt: lorem-ipsum
 image_alt: celebration
