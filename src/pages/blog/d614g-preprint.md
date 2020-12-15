@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: SARS-CoV-2 discovery featured in international news
 subtitle: ''
 date: '2020-06-13'
 excerpt: lorem-ipsum
