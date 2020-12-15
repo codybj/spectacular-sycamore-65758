@@ -4,7 +4,7 @@ subtitle: lorem-ipsum
 date: '2020-12-15'
 excerpt: lorem-ipsum
 image_alt: celebration
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: ''
 meta_title: ''
 meta_description: ''
 canonical_url: lorem-ipsum
