@@ -64,8 +64,8 @@ sections:
     type: section_cta
     title: Visit the Choe Lab website
     subtitle: >-
-      For more information on these projects, please visit the website of my PhD
-      mentor, Dr. Hyeryun Choe.
+      For more information on these and related projects, please visit the
+      website of my PhD mentor, Dr. Hyeryun Choe.
     actions:
       - label: Choe Lab
         url: 'https://www.choeresearch.com/'
