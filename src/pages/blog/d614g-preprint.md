@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 subtitle: lorem-ipsum
-date: '2020-12-15'
+date: '2020-06-15'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
