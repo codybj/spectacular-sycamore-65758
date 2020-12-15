@@ -21,7 +21,7 @@ sections:
     subtitle: Current and past research interests during training
     features:
       - title: AAV Vectors for Gene Therapy
-        image: images/eAAV SkM.png
+        image: images/eAAV Boxes bg.png
         image_alt: App users welcoming a new member
         content: >-
           Skeletal muscle is an ideal gene therapy target to act as a factory
