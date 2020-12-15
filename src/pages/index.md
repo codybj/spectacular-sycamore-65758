@@ -29,9 +29,9 @@ sections:
           for the production and secretion of systemically-acting therapeutic
           proteins. However, current gene delivery technologies are limited in
           transduction efficiency in skeletal muscle. We developed a novel AAV
-          vector targeting insulin receptor to achieve ~20-fold enhanced
-          transduction of skeletal muscle *in vivo* with a modular approach that
-          can be combined with other advances in AAV capsid engineering.
+          vector targeting insulin receptor to achieve enhanced transduction of
+          skeletal muscle *in vivo* with a modular approach that can be combined
+          with other advances in AAV capsid engineering.
         actions:
           - label: Molecular Therapy Methods & Clin Dev
             url: 'https://doi.org/10.1016/j.omtm.2020.11.004'
