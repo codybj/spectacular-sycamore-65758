@@ -18,7 +18,7 @@ sections:
     type: section_features
     background: gray
     title: Research Interests
-    subtitle: Current and past research interests during training
+    subtitle: ''
     features:
       - title: AAV Vectors for Gene Therapy
         image_alt: App users welcoming a new member
