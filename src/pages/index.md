@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Dr. Cody B. Jackson
     content: >-
-      Synthetic virology postdoc at [Scripps
-      Research](https://www.scripps.edu).  
+      Synthetic virology postdoc at [Scripps Research](https://www.scripps.edu)
+      Choe Laboratory.  
 
       MD candidate at [Florida Atlantic University](https://med.fau.edu).
     actions:
