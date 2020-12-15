@@ -6,8 +6,10 @@ sections:
     image: images/Cody low-poly sketch.png
     image_alt: App preview
     title: Dr. Cody B. Jackson
-    content: |-
-      Synthetic virology postdoc at [Scripps Research](https://www.scripps.edu).
+    content: >-
+      Synthetic virology postdoc at [Scripps
+      Research](https://www.scripps.edu).  
+
       MD candidate at [Florida Atlantic University](https://med.fau.edu).
     actions:
       - label: Learn More
