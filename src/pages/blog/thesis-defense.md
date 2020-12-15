@@ -1,7 +1,7 @@
 ---
 title: Cody defends his PhD thesis
 subtitle: ''
-date: '2020-12-15'
+date: '2020-10-14'
 excerpt: lorem-ipsum
 image_alt: celebration
 thumb_image_alt: ''
