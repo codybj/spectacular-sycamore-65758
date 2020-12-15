@@ -21,7 +21,7 @@ sections:
     subtitle: Current and past research interests during training
     features:
       - title: SARS-CoV-2
-        image: images/feature1.png
+        image: images/SARS-CoV-2 Spikes.png
         image_alt: App preview on a phone and tablet
         content: >-
           SARS-CoV-2, the causative agent of COVID-19, binds and enters host
