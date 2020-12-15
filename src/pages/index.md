@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/Cody low-poly sketch.png
     image_alt: App preview
     title: Dr. Cody B. Jackson
     content: >-
