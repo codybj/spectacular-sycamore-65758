@@ -33,7 +33,7 @@ sections:
           transduction of skeletal muscle *in vivo* with a modular approach that
           can be combined with other advances in AAV capsid engineering.
         actions:
-          - label: Molecular Therapy Methods Clin Dev
+          - label: Molecular Therapy Methods & Clin Dev
             url: 'https://doi.org/10.1016/j.omtm.2020.11.004'
             new_window: true
       - title: SARS-CoV-2
