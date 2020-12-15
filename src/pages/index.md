@@ -66,7 +66,7 @@ sections:
       For more information on these projects, please visit the website of my PhD
       mentor, Dr. Hyeryun Choe.
     actions:
-      - label: Get Started
+      - label: Go
         url: /signup
         primary: true
   - section_id: recent-posts
