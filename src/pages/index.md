@@ -67,7 +67,7 @@ sections:
       mentor, Dr. Hyeryun Choe.
     actions:
       - label: Go
-        url: /signup
+        url: 'https://www.choeresearch.com/'
         primary: true
   - section_id: recent-posts
     type: section_posts
