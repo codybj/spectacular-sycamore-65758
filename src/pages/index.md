@@ -36,7 +36,7 @@ sections:
             url: 'https://doi.org/10.1016/j.omtm.2020.11.004'
             new_window: true
       - title: SARS-CoV-2
-        image: images/SARS-CoV-2 Spikes.png
+        image: images/SARS-CoV-2 w blue bg.png
         image_alt: App preview on a phone and tablet
         content: >-
           SARS-CoV-2, the causative agent of COVID-19, binds and enters host
