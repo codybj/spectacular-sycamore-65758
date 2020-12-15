@@ -11,9 +11,4 @@ canonical_url: lorem-ipsum
 no_index: false
 template: post
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+Cody successfully defended his PhD thesis, titled "Enhancement of skeletal muscle-directed gene transfer by insulin receptor-targeted AAV".
