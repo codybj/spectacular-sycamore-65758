@@ -20,6 +20,21 @@ sections:
     title: Research Interests
     subtitle: Current and past research interests during training
     features:
+      - title: AAV Vectors for Gene Therapy
+        image: images/eAAV SkM.png
+        image_alt: App users welcoming a new member
+        content: >-
+          Skeletal muscle is an ideal gene therapy target to act as a factory
+          for the production and secretion of systemically-acting therapeutic
+          proteins. However, current gene delivery technologies are limited in
+          transduction efficiency in skeletal muscle. We developed a novel AAV
+          vector targeting insulin receptor to achieve ~20-fold enhanced
+          transduction of skeletal muscle *in vivo* with a modular approach that
+          can be combined with other advances in AAV capsid engineering.
+        actions:
+          - label: Molecular Therapy Methods Clin Dev
+            url: 'https://doi.org/10.1016/j.omtm.2020.11.004'
+            new_window: true
       - title: SARS-CoV-2
         image: images/SARS-CoV-2 Spikes.png
         image_alt: App preview on a phone and tablet
@@ -44,21 +59,6 @@ sections:
             new_window: true
             no_follow: false
             type: action
-      - title: AAV Vectors for Gene Therapy
-        image: images/eAAV SkM.png
-        image_alt: App users welcoming a new member
-        content: >-
-          Skeletal muscle is an ideal gene therapy target to act as a factory
-          for the production and secretion of systemically-acting therapeutic
-          proteins. However, current gene delivery technologies are limited in
-          transduction efficiency in skeletal muscle. We developed a novel AAV
-          vector targeting insulin receptor to achieve ~20-fold enhanced
-          transduction of skeletal muscle *in vivo* with a modular approach that
-          can be combined with other advances in AAV capsid engineering.
-        actions:
-          - label: Molecular Therapy Methods Clin Dev
-            url: 'https://doi.org/10.1016/j.omtm.2020.11.004'
-            new_window: true
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
