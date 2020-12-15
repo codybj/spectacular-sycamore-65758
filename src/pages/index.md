@@ -34,6 +34,7 @@ sections:
           - label: Molecular Therapy Methods & Clin Dev
             url: 'https://doi.org/10.1016/j.omtm.2020.11.004'
             new_window: true
+        image: images/graceful-sunflower.png
       - title: SARS-CoV-2
         image: images/SARS-CoV-2 w blue bg.png
         image_alt: App preview on a phone and tablet
