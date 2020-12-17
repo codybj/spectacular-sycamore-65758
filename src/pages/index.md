@@ -75,6 +75,6 @@ sections:
     background: gray
     title: Latest News
 meta_title: Cody Jackson
-meta_description: The preview of the Azimuth theme
+meta_description: ''
 template: landing
 ---
