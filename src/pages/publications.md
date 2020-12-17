@@ -9,7 +9,7 @@ image: images/CODYPOSTER3 2.jpg
     <tr>
       <td><strong>Jackson, Cody B.</strong>, Audrey S. Richard, Amrita Ojha, Kimberly A. Conkright, Jeffrey M. Trimarchi, Charles C. Bailey, Michael D. Alpert, Mark A. Kay, Michael Farzan, and Hyeryun Choe. 2020. “AAV Vectors Engineered to Target Insulin Receptor Greatly Enhance Intramuscular Gene Delivery.” <em>Molecular Therapy - Methods & Clinical Development</em> 19 (December): 496–506. <a href="https://doi.org/10.1016/j.omtm.2020.11.004">doi:10.1016/j.omtm.2020.11.004</a>.</td>
       <td><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.omtm.2020.11.004"></div></td>
-      <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.omtm.2020.11.004" data-style="small_circle"></span></td>
+      <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.omtm.2020.11.004"></span></td>
     </tr>
     <tr>
       <td><strong>Jackson, Cody B.</strong>, Lizhou Zhang, Michael Farzan, and Hyeryun Choe. 2020. “Functional Importance of the D614G Mutation in the SARS-CoV-2 Spike Protein.” <em>Biochemical and Biophysical Research Communications</em>. <a href="https://doi.org/10.1016/j.bbrc.2020.11.026">doi:10.1016/j.bbrc.2020.11.026</a>.</td>
