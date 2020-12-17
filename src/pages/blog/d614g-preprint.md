@@ -2,7 +2,7 @@
 title: SARS-CoV-2 discovery featured in international news
 subtitle: 'Lead authors: Lizhou Zhang, Cody B. Jackson, and Huihui Mou'
 date: '2020-06-13'
-excerpt: lorem-ipsum
+excerpt: ''
 image_alt: newspaper
 thumb_image_alt: newspaper
 meta_title: ''
