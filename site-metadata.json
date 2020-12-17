@@ -52,7 +52,7 @@
             },
             {
                 "label": "Email: cjackson@scripps.edu",
-                "url": "mailto:cjackson@scripps.edu",
+                "url": "",
                 "primary": false,
                 "new_window": false,
                 "no_follow": false,
