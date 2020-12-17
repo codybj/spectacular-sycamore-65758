@@ -1,6 +1,6 @@
 ---
 title: eAAV study featured on the cover of Mol Ther Methods & Clin Dev
-subtitle: lorem-ipsum
+subtitle: 'The image of human skeletal muscle cells '
 date: '2020-12-17'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
