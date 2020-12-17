@@ -15,6 +15,7 @@ canonical_url: lorem-ipsum
 no_index: false
 template: post
 image: images/Eo_d7uZXEAQaHB1.jpg
+thumb_image: images/Eo_d7uZXEAQaHB1.jpg
 ---
 **On the Cover**: Work by Jackson et al. (pp. 496–506) demonstrates greatly enhanced gene delivery to skeletal muscle by adeno-associated virus vectors modified to target insulin receptor. Human primary skeletal muscle cells differentiated to form myotubes were transduced with an equal copy number of AAV9 (top) or the insulin receptor-targeted eAAV9 (bottom) encoding green fluorescent protein (GFP). Green, GFP reporter; red, cellular autofluorescence for morphology visualization; blue, nuclei stained with Hoechst 33342. Cover by Cody B. Jackson.
 
