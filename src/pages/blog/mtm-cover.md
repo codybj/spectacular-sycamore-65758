@@ -1,8 +1,8 @@
 ---
 title: eAAV study featured on the cover of Mol Ther Methods & Clin Dev
 subtitle: >-
-  Image of human skeletal muscle cells transduced with eAAV appears on December
-  11, 2020 volume
+  Image of human skeletal muscle cells transduced with eAAV appears on the
+  December 11, 2020 volume
 date: '2020-12-17'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
