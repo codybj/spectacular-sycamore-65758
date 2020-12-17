@@ -74,7 +74,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest News
-meta_title: Stackbit Azimuth Theme
+meta_title: Cody Jackson
 meta_description: The preview of the Azimuth theme
 template: landing
 ---
