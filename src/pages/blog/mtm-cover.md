@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: eAAV study featured on the cover of Mol Ther Methods & Clin Dev
 subtitle: lorem-ipsum
 date: '2020-12-17'
 excerpt: lorem-ipsum
