@@ -13,6 +13,7 @@ sections:
       - label: Learn More
         url: '#research'
         primary: true
+    image: images/mighty-sunflower.png
   - section_id: research
     type: section_features
     background: gray
