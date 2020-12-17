@@ -12,7 +12,7 @@ image: images/CODYPOSTER3 2.jpg
     <tr>
       <td><strong>Jackson, Cody B.</strong>, Lizhou Zhang, Michael Farzan, and Hyeryun Choe. 2020. “Functional Importance of the D614G Mutation in the SARS-CoV-2 Spike Protein.” <em>Biochemical and Biophysical Research Communications</em>. https://doi.org/10.1016/j.bbrc.2020.11.026.</td>
     </tr>
-      <td>Zhang, Lizhou*, <strong>Cody B. Jackson<s/trong>*, Huihui Mou*, Amrita Ojha, Haiyong Peng, Brian D. Quinlan, Erumbi S. Rangarajan, et al. 2020. “SARS-CoV-2 Spike-Protein D614G Mutation Increases Virion Spike Density and Infectivity.” <em>Nature Communications</em> 11 (1): 1–9. https://doi.org/10.1038/s41467-020-19808-4. <strong>*Equal contribution</strong></td>
+      <td>Zhang, Lizhou*, <strong>Cody B. Jackson</strong>*, Huihui Mou*, Amrita Ojha, Haiyong Peng, Brian D. Quinlan, Erumbi S. Rangarajan, et al. 2020. “SARS-CoV-2 Spike-Protein D614G Mutation Increases Virion Spike Density and Infectivity.” <em>Nature Communications</em> 11 (1): 1–9. https://doi.org/10.1038/s41467-020-19808-4. <strong>*Equal contribution</strong></td>
     </tr>
     <tr>
       <td><em>Preprint:</em> Zhang, Lizhou*, <strong>Cody Jackson</strong>*, Huihui Mou*, Amrita Ojha, Erumbi Rangarajan, Tina Izard, Michael Farzan, and Hyeryun Choe. 2020. “The D614G Mutation in the SARS-CoV-2 Spike Protein Reduces S1 Shedding and Increases Infectivity.” <em>BioRxiv : The Preprint Server for Biology</em>. https://doi.org/10.1101/2020.06.12.148726. <strong>*Equal contribution</strong></td>
