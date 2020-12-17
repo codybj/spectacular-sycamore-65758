@@ -1,6 +1,7 @@
 ---
 title: Publications
 template: page
+image: images/CODYPOSTER3 2.jpg
 ---
 ## Papers
 
