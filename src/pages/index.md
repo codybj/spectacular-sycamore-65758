@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/amazing-tomato.png
+    image: images/Cody photo with ellipse.png
     image_alt: App preview
     title: Dr. Cody B. Jackson
     content: >-
