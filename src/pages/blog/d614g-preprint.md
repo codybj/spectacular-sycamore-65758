@@ -7,7 +7,7 @@ image_alt: newspaper
 thumb_image_alt: newspaper
 meta_title: ''
 meta_description: ''
-canonical_url: lorem-ipsum
+canonical_url: ''
 no_index: false
 template: post
 image: images/56c1f8_7c8f802b84754366bb8c0150a6d5bb5f_mv2.jpg
