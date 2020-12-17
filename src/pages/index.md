@@ -13,6 +13,7 @@ sections:
       - label: Learn More
         url: '#research'
         primary: true
+    image: images/Cody photo with ellipse800.png
   - section_id: research
     type: section_features
     background: gray
