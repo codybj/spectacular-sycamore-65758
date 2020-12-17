@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image_alt: App preview
+    image_alt: Cody
     title: Dr. Cody B. Jackson
     content: >-
       Synthetic virology postdoc at [Scripps Research](https://www.scripps.edu)
