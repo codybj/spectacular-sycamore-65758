@@ -8,7 +8,7 @@ excerpt: >-
   Work by Jackson et al. demonstrates greatly enhanced gene delivery to skeletal
   muscle by adeno-associated virus vectors modified to target insulin receptor.
 image_alt: lorem-ipsum
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: cover
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
