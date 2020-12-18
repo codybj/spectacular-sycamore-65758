@@ -8,7 +8,7 @@ image: images/CODYPOSTER3 2.jpg
   <tbody>
     <tr>
       <td><strong>Jackson, Cody B.</strong>, Audrey S. Richard, Amrita Ojha, Kimberly A. Conkright, Jeffrey M. Trimarchi, Charles C. Bailey, Michael D. Alpert, Mark A. Kay, Michael Farzan, and Hyeryun Choe. 2020. “AAV Vectors Engineered to Target Insulin Receptor Greatly Enhance Intramuscular Gene Delivery.” <em>Molecular Therapy - Methods & Clinical Development</em> 19 (December): 496–506. <a href="https://doi.org/10.1016/j.omtm.2020.11.004">doi:10.1016/j.omtm.2020.11.004</a>.</td>
-      <td><sup>Altmetric</sup><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.omtm.2020.11.004"></div></td>
+      <td><sup>Altmetric</sup><br/><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.omtm.2020.11.004"></div></td>
       <td><sup>Dimensions</sup><div class="__dimensions_badge_embed__" data-doi="10.1016/j.omtm.2020.11.004" data-style="small_circle"></div></td>
     </tr>
     <tr>
