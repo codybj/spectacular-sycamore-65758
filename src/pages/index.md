@@ -21,7 +21,7 @@ sections:
     subtitle: ''
     features:
       - title: AAV Vectors for Gene Therapy
-        image_alt: App users welcoming a new member
+        image_alt: eAAV
         content: >-
           Skeletal muscle is an ideal gene therapy target to act as a factory
           for the production and secretion of systemically-acting therapeutic
