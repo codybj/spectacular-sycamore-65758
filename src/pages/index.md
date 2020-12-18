@@ -37,7 +37,7 @@ sections:
         image: images/eAAV Boxes bg.png
       - title: SARS-CoV-2
         image: images/SARS-CoV-2 w blue bg.png
-        image_alt: App preview on a phone and tablet
+        image_alt: SARS-CoV-2 virion
         content: >-
           SARS-CoV-2, the causative agent of COVID-19, binds and enters host
           cells by action of its spike protein. SARS-CoV-2, unlike other
