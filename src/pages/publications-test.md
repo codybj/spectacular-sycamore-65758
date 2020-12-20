@@ -16,6 +16,7 @@ image: images/CODYPOSTER3 2.jpg
       <td><div id="altmetric-bbrc" class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.bbrc.2020.11.026"></div><br/>
       <div id="dimensions-bbrc" class="__dimensions_badge_embed__" data-doi="10.1016/j.bbrc.2020.11.026" data-style="small_circle"></div></td>
     </tr>
+    <tr>
       <td>Zhang, Lizhou*, <strong>Cody B. Jackson</strong>*, Huihui Mou*, Amrita Ojha, Haiyong Peng, Brian D. Quinlan, Erumbi S. Rangarajan, et al. 2020. “SARS-CoV-2 Spike-Protein D614G Mutation Increases Virion Spike Density and Infectivity.” <em>Nature Communications</em> 11 (1): 1–9. <a href="https://doi.org/10.1038/s41467-020-19808-4">doi:10.1038/s41467-020-19808-4</a>. <strong>*Equal contribution</strong></td>
       <td><div id="altmetric-natcommun" class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-020-19808-4"></div><br/>
       <div id="dimensions-natcommun" class="__dimensions_badge_embed__" data-doi="10.1038/s41467-020-19808-4" data-style="small_circle"></div></td>
