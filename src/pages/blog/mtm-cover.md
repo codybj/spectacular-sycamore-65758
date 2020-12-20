@@ -9,9 +9,6 @@ excerpt: >-
   muscle by adeno-associated virus vectors modified to target insulin receptor.
 image_alt: cover
 thumb_image_alt: cover
-meta_title: lorem-ipsum
-meta_description: lorem-ipsum
-canonical_url: lorem-ipsum
 no_index: false
 template: post
 image: images/Eo_d7uZXEAQaHB1.jpg
