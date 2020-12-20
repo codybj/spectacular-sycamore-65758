@@ -18,9 +18,9 @@ body {
 }
 
 a {
-  border-bottom: 1px solid currentColor;
+  // border-bottom: 1px solid currentColor;
   color: _palette(primary);
-  text-decoration: none;
+  text-decoration: underline;
   -webkit-transition: border-color .15s ease-in-out, color .15s ease-in-out;
   transition: border-color .15s ease-in-out, color .15s ease-in-out;
 
