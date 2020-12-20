@@ -5,13 +5,6 @@ image: images/CODYPOSTER3 2.jpg
 ---
 ## Papers
 <table>
-	  <thead>
-    <tr>
-      <td>Citation</td>
-      <td>Altmetric</td>
-      <td>Dimensions</td>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td><strong>Jackson, Cody B.</strong>, Audrey S. Richard, Amrita Ojha, Kimberly A. Conkright, Jeffrey M. Trimarchi, Charles C. Bailey, Michael D. Alpert, Mark A. Kay, Michael Farzan, and Hyeryun Choe. 2020. “AAV Vectors Engineered to Target Insulin Receptor Greatly Enhance Intramuscular Gene Delivery.” <em>Molecular Therapy - Methods & Clinical Development</em> 19 (December): 496–506. <a href="https://doi.org/10.1016/j.omtm.2020.11.004">doi:10.1016/j.omtm.2020.11.004</a>.</td>
@@ -23,6 +16,7 @@ image: images/CODYPOSTER3 2.jpg
       <td><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.bbrc.2020.11.026"></div></td>
       <td><div class="__dimensions_badge_embed__" data-doi="10.1016/j.bbrc.2020.11.026" data-style="small_circle"></div></td>
     </tr>
+    <tr>
       <td>Zhang, Lizhou*, <strong>Cody B. Jackson</strong>*, Huihui Mou*, Amrita Ojha, Haiyong Peng, Brian D. Quinlan, Erumbi S. Rangarajan, et al. 2020. “SARS-CoV-2 Spike-Protein D614G Mutation Increases Virion Spike Density and Infectivity.” <em>Nature Communications</em> 11 (1): 1–9. <a href="https://doi.org/10.1038/s41467-020-19808-4">doi:10.1038/s41467-020-19808-4</a>. <strong>*Equal contribution</strong></td>
       <td><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-020-19808-4"></div></td>
       <td><div class="__dimensions_badge_embed__" data-doi="10.1038/s41467-020-19808-4" data-style="small_circle"></div></td>
