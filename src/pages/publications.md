@@ -4,15 +4,16 @@ template: page
 image: images/CODYPOSTER3 2.jpg
 ---
 ## Papers
+
 <table>
   <tbody>
     <tr>
-      <td><strong>Jackson, Cody B.</strong>, Audrey S. Richard, Amrita Ojha, Kimberly A. Conkright, Jeffrey M. Trimarchi, Charles C. Bailey, Michael D. Alpert, Mark A. Kay, Michael Farzan, and Hyeryun Choe. 2020. “AAV Vectors Engineered to Target Insulin Receptor Greatly Enhance Intramuscular Gene Delivery.” <em>Molecular Therapy - Methods & Clinical Development</em> 19 (December): 496–506. <a href="https://doi.org/10.1016/j.omtm.2020.11.004">doi:10.1016/j.omtm.2020.11.004</a>.</td>
+      <td><strong>Jackson, Cody B.</strong>, Audrey S. Richard, Amrita Ojha, Kimberly A. Conkright, Jeffrey M. Trimarchi, Charles C. Bailey, Michael D. Alpert, Mark A. Kay, Michael Farzan, and Hyeryun Choe. 2020. “AAV Vectors Engineered to Target Insulin Receptor Greatly Enhance Intramuscular Gene Delivery.” <em>Molecular Therapy - Methods & Clinical Development</em> 19: 496–506. <a href="https://doi.org/10.1016/j.omtm.2020.11.004">doi:10.1016/j.omtm.2020.11.004</a>.</td>
       <td><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.omtm.2020.11.004"></div></td>
       <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.omtm.2020.11.004" data-style="small_circle"></span></td>
     </tr>
     <tr>
-      <td><strong>Jackson, Cody B.</strong>, Lizhou Zhang, Michael Farzan, and Hyeryun Choe. 2020. “Functional Importance of the D614G Mutation in the SARS-CoV-2 Spike Protein.” <em>Biochemical and Biophysical Research Communications</em>. <a href="https://doi.org/10.1016/j.bbrc.2020.11.026">doi:10.1016/j.bbrc.2020.11.026</a>.</td>
+      <td><strong>Jackson, Cody B.</strong>, Lizhou Zhang, Michael Farzan, and Hyeryun Choe. 2021. “Functional Importance of the D614G Mutation in the SARS-CoV-2 Spike Protein.” <em>Biochemical and Biophysical Research Communications</em> 538: 108-115. <a href="https://doi.org/10.1016/j.bbrc.2020.11.026">doi:10.1016/j.bbrc.2020.11.026</a>.</td>
       <td><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.bbrc.2020.11.026"></div></td>
       <td><span class="__dimensions_badge_embed__" data-doi="10.1016/j.bbrc.2020.11.026" data-style="small_circle"></span></td>
     </tr>
@@ -27,7 +28,7 @@ image: images/CODYPOSTER3 2.jpg
       <td><span class="__dimensions_badge_embed__" data-doi="10.1101/2020.06.12.148726" data-style="small_circle"></span></td>
     </tr>
     <tr>
-      <td>Zhang, Lizhou, Audrey S. Richard, <strong>Cody B. Jackson</strong>, Amrita Ojha, and Hyeryun Choe. 2020. “Phosphotidylethanolamine and Phosphatidylserine Synergize to Enhance GAS6/AXL-Mediated Virus Infection and Efferocytosis.” <em>Journal of Virology</em>, October. <a href="https://doi.org/10.1128/jvi.02079-20">doi:10.1128/jvi.02079-20</a>.</td>
+      <td>Zhang, Lizhou, Audrey S. Richard, <strong>Cody B. Jackson</strong>, Amrita Ojha, and Hyeryun Choe. 2020. “Phosphotidylethanolamine and Phosphatidylserine Synergize to Enhance GAS6/AXL-Mediated Virus Infection and Efferocytosis.” <em>Journal of Virology</em> 95 (2): e02079-20. <a href="https://doi.org/10.1128/jvi.02079-20">doi:10.1128/jvi.02079-20</a>.</td>
       <td><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1128/jvi.02079-20"></div></td>
       <td><span class="__dimensions_badge_embed__" data-doi="10.1128/jvi.02079-20" data-style="small_circle"></span></td>
     </tr>
@@ -50,4 +51,5 @@ image: images/CODYPOSTER3 2.jpg
 </table>
 
 <script src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> <!--Dimensions badge-->
+
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <!--Altmetric badge-->
